@@ -130,3 +130,4 @@ dmypy.json
 .pyre/
 
 */key.py
+*/node_modules/*
